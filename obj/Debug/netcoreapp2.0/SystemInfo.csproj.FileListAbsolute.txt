@@ -1,0 +1,15 @@
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\bin\Debug\netcoreapp2.0\SystemInfo.deps.json
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\bin\Debug\netcoreapp2.0\SystemInfo.runtimeconfig.json
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\bin\Debug\netcoreapp2.0\SystemInfo.runtimeconfig.dev.json
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\bin\Debug\netcoreapp2.0\SystemInfo.dll
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\bin\Debug\netcoreapp2.0\SystemInfo.pdb
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\obj\Debug\netcoreapp2.0\SystemInfo.csprojAssemblyReference.cache
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\obj\Debug\netcoreapp2.0\SystemInfo.AssemblyInfoInputs.cache
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\obj\Debug\netcoreapp2.0\SystemInfo.AssemblyInfo.cs
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\obj\Debug\netcoreapp2.0\SystemInfo.csproj.CoreCompileInputs.cache
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\obj\Debug\netcoreapp2.0\SystemInfo.dll
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\obj\Debug\netcoreapp2.0\SystemInfo.pdb
+C:\Users\Stanbic\Desktop\Projects\Book\SystemInfo\SystemInfo\obj\Debug\netcoreapp2.0\SystemInfo.genruntimeconfig.cache
